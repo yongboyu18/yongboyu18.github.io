@@ -36,7 +36,7 @@ My research interests focus on the following areas:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/PBDMSC.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/PBDMSC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pseudo-Label Guided Bidirectional Discriminative Deep Multi-View Subspace Clustering](https://ieeexplore.ieee.org/abstract/document/10971281)
