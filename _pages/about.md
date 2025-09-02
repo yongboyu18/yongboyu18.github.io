@@ -41,11 +41,38 @@ My research interests focus on the following areas:
 
 [Pseudo-Label Guided Bidirectional Discriminative Deep Multi-View Subspace Clustering](https://ieeexplore.ieee.org/abstract/document/10971281)
 
-**Yongbo Yu**, Zhoumin Lu, Feiping Nie, Xuelong Li
+**Yongbo Yu**, Zhoumin Lu, Feiping Nie, Weizhong Yu, Xuelong Li
 
-[Code](https://github.com/usualheart/PBDMSC)
+[Code](https://github.com/usualheart/PBDMSC) ![star](https://img.shields.io/github/stars/usualheart/PBDMSC.svg)
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/CICAG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Capturing Individuality and Commonality Between Anchor Graphs for Multi-View Clustering](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4190.pdf)
+
+Zhoumin Lu, **Yongbo Yu**, Feiping Nie, Xuelong Li
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/PRformer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PRformer: Pyramidal recurrent transformer for multivariate time series forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006495)
+
+**Yongbo Yu**, Weizhong Yu, Feiping Nie, Zongcheng Miao, Ya Liu, Xuelong Li
+
+[Code](https://github.com/usualheart/PRformer) ![star](https://img.shields.io/github/stars/usualheart/PRformer.svg)
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/BFCMC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bidirectional fusion for deep contrastive multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0957417425018135)
+
+**Yongbo Yu**, Jie Wang, Weizhong Yu, Zihua Zhao, Zongcheng Miao, Feiping Nie
 
 
 
