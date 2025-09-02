@@ -45,6 +45,8 @@ My research interests focus on the following areas:
 
 [Code](https://github.com/usualheart/PBDMSC) ![star](https://img.shields.io/github/stars/usualheart/PBDMSC.svg)
 
+---
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/CICAG.jpg' alt="sym" width="100%"></div></div>
@@ -53,6 +55,8 @@ My research interests focus on the following areas:
 [Capturing Individuality and Commonality Between Anchor Graphs for Multi-View Clustering](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4190.pdf)
 
 Zhoumin Lu, **Yongbo Yu**, Feiping Nie, Xuelong Li
+
+---
 
 
 
@@ -64,6 +68,8 @@ Zhoumin Lu, **Yongbo Yu**, Feiping Nie, Xuelong Li
 **Yongbo Yu**, Weizhong Yu, Feiping Nie, Zongcheng Miao, Ya Liu, Xuelong Li
 
 [Code](https://github.com/usualheart/PRformer) ![star](https://img.shields.io/github/stars/usualheart/PRformer.svg)
+
+---
 
 
 
