@@ -45,9 +45,7 @@ My research interests focus on the following areas:
 
 [Code](https://github.com/usualheart/PBDMSC) ![star](https://img.shields.io/github/stars/usualheart/PBDMSC.svg)
 
----
-
-
+# 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/CICAG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,9 +54,7 @@ My research interests focus on the following areas:
 
 Zhoumin Lu, **Yongbo Yu**, Feiping Nie, Xuelong Li
 
----
-
-
+# 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/PRformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,9 +65,7 @@ Zhoumin Lu, **Yongbo Yu**, Feiping Nie, Xuelong Li
 
 [Code](https://github.com/usualheart/PRformer) ![star](https://img.shields.io/github/stars/usualheart/PRformer.svg)
 
----
-
-
+# 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/BFCMC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
